@@ -27,7 +27,6 @@ NS = {
     "dc": "http://purl.org/dc/elements/1.1/",
 }
 
-EMOJI_SLUG_RE = re.compile(r"^(%[0-9a-fA-F]{2})+-")
 NON_ASCII_SLUG_RE = re.compile(r"[^a-z0-9-]+")
 
 
